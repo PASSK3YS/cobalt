@@ -1,0 +1,78 @@
+:root {
+
+  --background-1: #122549;
+  --background-2: #142850;
+  --background-3: #1A3467;
+  --border-color: #1A3467;
+  --foreground-1: #8FD9E9;
+  --foreground-2: #8FD9E9;
+ 
+  --sn-stylekit-neutral-color: var(--foreground-2); 
+  --sn-stylekit-neutral-contrast-color: black;			/* Button text*/
+ 
+  --sn-stylekit-info-color: #00A8D0;
+  --sn-stylekit-info-color-darkened: purple;			/* No effect noted */ 
+  --sn-stylekit-info-contrast-color: black;			/* Button text */
+  --sn-stylekit-info-backdrop-color: 	var(--background-3);			/* Background of selected theme and category in preferences*/
+
+  --sn-stylekit-success-color: #048FFF;
+  --sn-stylekit-success-contrast-color: black;			/* Button text */
+
+  --sn-stylekit-warning-color: #00A8CC;
+  --sn-stylekit-warning-contrast-color: black;			/* Button text */
+
+  --sn-stylekit-danger-color: #FF004E;				
+  --sn-stylekit-danger-contrast-color: black;			/* Button text */
+/*--sn-stylekit-danger-light-color: #00A8CC;			/* Background of days with notes in journal view */
+
+  --sn-stylekit-shadow-color: var(--border-color); 		/* Divider in alternative rich text editor */
+  --sn-stylekit-background-color: var(--background-1);		/* Notes panel background, editor header background, and menu background */
+  
+  --sn-stylekit-border-color: var(--border-color);		/* Border between panels and items */
+  --sn-stylekit-foreground-color: var(--foreground-1);		/* When hovering over menus/tags in note panel, Basic Markdown editor */
+
+  --sn-stylekit-contrast-background-color: var(--background-3);		/* Title bar, status bar, selected note background */
+  --sn-stylekit-contrast-border-color: var(--border-color);		/* Title bar border  */
+  --sn-stylekit-contrast-foreground-color: var(--foreground-1);		/* Menu and status bar icons, button text, theme menu text */
+
+  --sn-stylekit-secondary-background-color: var(--background-2);	/* View panel background colour */
+  --sn-stylekit-secondary-foreground-color: var(--foreground-1);	/* View panel text colour */
+  --sn-stylekit-secondary-border-color: var(--border-color);		/* Rich text edior's button borders */
+
+  --sn-stylekit-secondary-contrast-border-color: purple;			/* No noted effect */
+  --sn-stylekit-secondary-contrast-background-color: var(--background-2);	/* Basic Markdown Buttons */ 
+  --sn-stylekit-secondary-contrast-foreground-color: var(--foreground-1);	/* Basic Markdown Buttons */ 
+
+  --sn-stylekit-editor-background-color: var(--background-1);	/* Editor panel and some editor elements */
+  --sn-stylekit-editor-foreground-color: var(--foreground-1);	/* Editor panel and some editor elements */
+
+  --sn-stylekit-paragraph-text-color: var(--foreground-1);		/* Text colour in preferences */ 
+
+  --sn-stylekit-input-placeholder-color: var(--foreground-2);		/* Search modal within authenticator note type */
+  --sn-stylekit-input-border-color: purple;				/* No noted effect */
+
+  --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);		/* Scroll bars */
+  --sn-stylekit-scrollbar-track-border-color: purple;				/* No noted effect */
+
+  --sn-stylekit-theme-type: dark;
+  --sn-stylekit-theme-name: sn-cobalt-strike;
+
+  --sn-stylekit-passive-color-0: var(--foreground-2);  			/* Search modal text */  		 		
+  --sn-stylekit-passive-color-1: var(--foreground-2);	 		/* Magnifying glass in search modal and theme radio buttons */	
+/*--sn-stylekit-passive-color-2:   		 		        /* Background to "Genereating Keys..." caption */
+  --sn-stylekit-passive-color-3: var(--border-color);			/* Search modal border */ 
+  --sn-stylekit-passive-color-4: var(--background-2);					/* No noted effect - editor panel flashes when switching to Titanium */
+  --sn-stylekit-passive-color-4-opacity-variant: var(--border-color);	/* Tag background colour, progress background of task list preview */
+  --sn-stylekit-passive-color-5: var(--background-3);			/* Background of file upload status */
+/*--sn-stylekit-passive-color-6: purple;				/* No noted effect 
+  --sn-stylekit-passive-color-super-light: purple;			/* No noted effect */
+  
+/*--sn-stylekit-accessory-tint-color-1: #086dd6;
+  --sn-stylekit-accessory-tint-color-2: #ea6595;         /* These are the editor icon colours
+  --sn-stylekit-accessory-tint-color-3: #ebad00;
+  --sn-stylekit-accessory-tint-color-4: #7049cf;
+  --sn-stylekit-accessory-tint-color-5: #1aa772;
+  --sn-stylekit-accessory-tint-color-6: #f28c52; */
+ 
+  --navigation-item-selected-background-color: var(--sn-stylekit-background-color);
+}

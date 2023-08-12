@@ -1,0 +1,19 @@
+{
+  "identifier": "com.sandraor.sn-aqua-light-theme",
+  "name": "Aqua Light",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.3",
+  "description": "Aqua Light theme for Standard Notes",
+  "url": "https://cdn.jsdelivr.net/gh/sandraor/sn-aqua-light-theme@v1.0.3/src/main.css",
+  "download_url": "https://github.com/sandraor/sn-aqua-light-theme/archive/refs/tags/v1.0.3.zip",
+  "marketing_url": "https://github.com/sandraor/sn-aqua-light-theme",
+  "latest_url": "https://cdn.jsdelivr.net/gh/sandraor/sn-aqua-light-theme@v1.0.3/ext.json",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/sandraor/sn-aqua-light-theme@v1.0.3/screenshot.png",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#122549",
+    "foreground_color": "#8FD9E9",
+    "border_color": "#1A3467"
+  }
+}
