@@ -7,4 +7,4 @@ Go to your account settings in the Standard Notes app > plugins > scroll down an
 ```
 https://passk3ys.github.io/cobalt/ext.json
 ```
-![preview](https://raw.githubusercontent.com/m00t316/cobalt/main/CSPreview.png)
+![preview](https://raw.githubusercontent.com/PASSK3YS/cobalt/refs/heads/main/sn-colbolt-preview.png)
