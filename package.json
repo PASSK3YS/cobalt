@@ -1,12 +1,12 @@
 {
   "name": "Cobalt",
-  "version": "1.2",
+  "version": "2.0",
   "main": "src/main.css",
   "sn": {
     "main": "src/main.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/m00t316/cobalt.git"
+    "url": "git://github.com/PASSK3YS/cobalt.git"
   }
 }
